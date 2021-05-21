@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="TW">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Immense</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Kiwi+Maru:wght@500&family=M+PLUS+Rounded+1c:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+</head>
+
+<body style="background-color: rgb(255, 169, 189);">
+
+    <div class="indexph-fluid">
+        <div class="container1">
+            <div class="cc1">
+                <div class="w1">
+                    <p>Immense</p>
+                </div>
+            </div>
+            <div class="container3">
+
+                <div class="low-fluid" style="display: flex;width: auto;height: 7%;padding: 3% 0 0 40%; position: fixed;z-index: 1;">
+                    <div class="col btn" style="float: right;margin: 0 10% 0 10%;width: 70%;font-size: 20px;color: #ce3d72;letter-spacing: 2px;font-family: 'Noto Sans JP', sans-serif;font-weight: 550;padding: 0;">
+                        <p>ABOUT</p>
+
+                    </div>
+                    <div class="col btn" style="float: right;margin: 0 10% 0 10%;width: 70%;font-size: 20px;color: #ce3d72;letter-spacing: 2px;font-family: 'Noto Sans JP', sans-serif;font-weight: 550;padding: 0;">
+                        <p>PRODUCT</p>
+                    </div>
+                    <div class="col btn" style="float: right;margin: 0 10% 0 10%;width: 70%;font-size: 20px;color: #ce3d72;letter-spacing: 2px;font-family: 'Noto Sans JP', sans-serif;font-weight: 550;padding: 0;">
+                        <p>CART</p>
+                    </div>
+                </div>
+                <div class="indexph" style="#">
+
+                    <img src="ph/p1.jpg" alt="no p1">
+                    <div class="container4">
+                        <p>CAKE,<br>COFFEE,<br>TEA<br>＆HAPPYNESS </p>
+                        <img src="ph/p14.png" alt="no p14">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="container5">
+
+        <div class="e1">
+
+            <img src="ph/p14.jpg" alt="no p14">
+            <p class="w2">The world is romantic because of dessert.
+                <br>Life is dreamy because of " Immense " .
+            </p>
+            <div class="w3 btn" style="font-family: 'Noto Sans JP', sans-serif;
+            margin: 28% 0 0 28%;padding: 0 1% 0 2%;border-bottom: 3px solid;border-radius: 0;">
+                <p>ABOUT &thinsp; US</p>
+            </div>
+
+        </div>
+        <div class="pp1">
+            <p>SWEET SWEET SWEET</p>
+        </div>
+    </div>
+
+
+    <div class="container6" style="margin: 5% 0 10% 0;padding: 0 10%;">
+        <div class="f1" style="margin: 0 0 5%;display: flex;justify-content: center;letter-spacing: 3px;">
+            <p style="font-size: 250%;color: rgb(222, 82, 115);font-family: 'Oswald', sans-serif;">FLAVORS</p>
+
+        </div>
+
+        <div class="f2" style="display: flex;justify-content: center;overflow:visible;font-family: 'Noto Sans JP', sans-serif;font-weight: bold;">
+            <div class="card" style="width: 33%;border-width: 0;height: 80%;border-radius: 0;margin: 0 4% 0 4%;">
+                <img src="ph/p2.webp" class="card-img-top" alt="no p6" style="border-radius: 0;">
+                <div class="card-body">
+                    <h5 class="card-title">Matcha Tart</h5>
+                    <p style="font-size: 5px;margin: 5% 0 10% 0;">$120</p>
+                    <div class="card-body btn" style="margin: 0;padding: 8% 0 3%;">learn more</div>
+                </div>
+            </div>
+            <div class="card" style="width: 33%;border-width: 0;height: 80%;border-radius: 0;margin: 0 4% 0 4%;">
+                <img src="ph/p3.webp" class="card-img-top" alt="no p6" style="border-radius: 0;">
+                <div class="card-body">
+                    <h5 class="card-title">Gem Candy</h5>
+                    <p style="font-size: 5px;margin: 5% 0 10% 0;">$110</p>
+                    <div class="card-body btn" style="margin: 0;padding: 8% 0 3%;">learn more</div>
+                </div>
+            </div>
+            <div class="card" style="width: 33%;border-width: 0;height: 80%;border-radius: 0;margin: 0 4% 0 4%;">
+                <img src="ph/p.webp" class="card-img-top" alt="no p6" style="border-radius: 0;">
+                <div class="card-body">
+                    <h5 class="card-title">Cantaloupe Custard Tart</h5>
+                    <p style="font-size: 5px;margin: 5% 0 10% 0;">$130</p>
+                    <div class="card-body btn" style="margin: 0;padding: 8% 0 3%;">learn more</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container7" style="width: 100%;">
+        <ul class="list" style="margin: 0 0 0 35%;padding: 0;">
+            <div class="e4" style="">
+                <div class="d1">
+                    <div class="row align-item-center" style="margin: 0;">
+                        <div class="col-4" style="font-family: 'Noto Sans JP', sans-serif;width: 10%;margin: 5% 10% 2% 0;font-size: 150%;font-weight: bolder;color: bisque;padding: 0;">
+                            Immense
+                        </div>
+                        <div class="col-1" style="margin: 5% 0 2% 0;background-image: url(ph/fb.png);background-repeat: no-repeat;background-size: contain;padding: 0;"></div>
+                        <div class="col-1" style="margin: 5% 0 2% 0;background-image:url(ph/ig.png);background-repeat: no-repeat;background-size: contain;padding: 0;"></div>
+                        <div class="col-1" style="margin: 5% 0 2% 0;padding: 0.85% 0.5%;background-image:url(ph/mail.png);background-repeat: no-repeat;background-size: contain;padding: 0;"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="e5" style="padding: 0;margin: 2% 0 1%;font-family: 'Noto Sans JP', sans-serif;color: bisque;">雲林縣斗六市太平路52號</div>
+            <div class="e6" style="padding: 0;margin: 1% 0;font-family: 'Noto Sans JP', sans-serif;color: bisque;">Tel.&thinsp;05 535 4520</div>
+            <div class="e7" style="padding: 0;margin: 1% 0;font-family: 'Noto Sans JP', sans-serif;color: bisque;">周一公休 &thinsp; 11:30am. - 7:30pm.</div>
+        </ul>
+    </div>
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+</body>
+
+</html>
